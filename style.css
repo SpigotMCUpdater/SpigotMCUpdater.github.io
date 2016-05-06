@@ -11,18 +11,27 @@ body {
 	max-width: 60%;
 }
 .navbar li {
-	 float: left;
+	float: left;
 }
 .navbar a {
-    display: block;
-    color: black;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
 }
 .navbar a:hover {
 	background-color: #CCC;
 }
 .active {
-    background-color: #DDD;
+	background-color: #DDD;
+}
+
+.java {
+	color: #FFF;
+	background-color: #F00
+}
+.git {
+	background-color: #4B8CE9;
+	background-image: linear-gradient(to bottom, #4B8CE9 0, #2C66B8 100%);
 }
