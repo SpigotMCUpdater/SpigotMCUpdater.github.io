@@ -26,12 +26,3 @@ body {
 .active {
 	background-color: #DDD;
 }
-
-.java {
-	color: #FFF;
-	background-color: #F00
-}
-.git {
-	background-color: #4B8CE9;
-	background-image: linear-gradient(to bottom, #4B8CE9 0, #2C66B8 100%);
-}
