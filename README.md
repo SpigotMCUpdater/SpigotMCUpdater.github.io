@@ -1,0 +1,1 @@
+# SpigotMCUpdater.github.io
